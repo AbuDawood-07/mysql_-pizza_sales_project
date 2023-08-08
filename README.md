@@ -1,1 +1,1 @@
-# mysql_-pizza_sales_project
+# mysql_-pizza_sales_Data analytics_project
